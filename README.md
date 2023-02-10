@@ -1,5 +1,5 @@
 # E-COMMERCE-WEBSITE-FOR-CONSTRUCTION-MATERIALS
-This is the site i.e ecommerce site where different construction materillas will be available at a place
+This is the site i.e ecommerce site where different construction materials will be available at a place
 
 MAIN PAGE
 ![1](https://user-images.githubusercontent.com/90173123/218161660-6443e73f-783e-45e5-9098-6aec27f4e2cb.PNG)
